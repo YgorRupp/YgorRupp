@@ -32,4 +32,6 @@ Atualmente estou estudando para Desenvolvedor Full Stack.
  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
   
+  ![snake gif](https://github.com/YgorRupp/YgorRupp/blob/output/github-contribution-grid-snake.svg)
+  
   
