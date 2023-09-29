@@ -4,7 +4,7 @@
 
 
 Estou buscando oportunidade para trabalhar como Desenvolvedor Front-End, Desenvolvedor Back-End ou Desenvolvedor Full-Stack.
-Atualmente estou estudando para Desenvolvedor Full Stack.
+
 
 <div align="center">
   <a href="https://github.com/YgorRupp">
